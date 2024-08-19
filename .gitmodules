@@ -1,0 +1,3 @@
+[submodule "definitions/ee_data_pipeline_common"]
+	path = definitions/ee_data_pipeline_common
+	url = git@github.com:jayson-ee/ee_data_pipeline_common.git
