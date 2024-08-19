@@ -1,8 +1,0 @@
-config {
-    type: "table",
-    schema: `${settings.final_dataset}`
-}
-
-SELECT
-*
-from ${ref("products_ga4_stg01")} 
